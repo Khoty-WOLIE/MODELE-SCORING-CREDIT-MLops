@@ -118,6 +118,4 @@ Le projet est divisé en deux missions :
 
 ## Résumé
 
-Ce projet vise à élaborer un **modèle de scoring** pour prédire la probabilité de défaut de paiement des clients de **"Prêt à dépenser"**. Le projet est structuré en deux missions : la création du modèle avec une optimisation métier, et l'intégration MLOps pour assurer un suivi efficace
-
- du modèle en production.
+Ce projet vise à élaborer un **modèle de scoring** pour prédire la probabilité de défaut de paiement des clients de **"Prêt à dépenser"**. Le projet est structuré en deux missions : la création du modèle avec une optimisation métier, et l'intégration MLOps pour assurer un suivi efficace du modèle en production.
