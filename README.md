@@ -4,6 +4,10 @@ Implémentez un modèle de scoring
 
 # Modèle de Scoring Crédit et Intégration MLOps - Prêt à Dépenser
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DS_projet7.PNG)
+
 ## Contexte
 
 Je suis Data Scientist chez **"Prêt à dépenser"**, une entreprise spécialisée dans les crédits à la consommation pour des clients ayant peu ou pas d'historique de prêt. L'entreprise souhaite développer un **modèle de scoring de crédit** pour évaluer automatiquement la probabilité de remboursement d’un client. Ce modèle classifie chaque demande en deux catégories : **crédit accordé** ou **refusé**. 
